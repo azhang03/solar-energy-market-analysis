@@ -56,6 +56,3 @@ Our main dashboard features a comprehensive view of solar potential across the U
 
 ## License
 This project is created for educational purposes as part of USC coursework.
-
----
-*Note: This README is part of a project submission for ITP249 at USC and showcases data visualization skills using Tableau.*
