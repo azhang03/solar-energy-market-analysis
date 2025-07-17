@@ -3,8 +3,6 @@
 ## USC ITP249 Data Analytics Project
 By Me and my project partner Jackson Cong
 
-Note: This is an In-Progress Project
-
 ## Project Overview
 This project analyzes Google Project Sunroof data to provide insights for solar roof installations across different regions in the United States. For Part 1, we use Tableau for data visualization and analysis of the data.
 
